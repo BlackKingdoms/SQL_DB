@@ -1,7 +1,7 @@
 {
-	"name": "queen-mizuki",
-	"version": "2.0.1",
-	"description": "NPM Package for queen mizuki",
+	"name": "blackkingdoms",
+	"version": "0.16.5",
+	"description": "NPM Package for blackkingdoms",
 	"main": "src/stack.js",
 	"directories": {
 			"lib": "lib"
@@ -11,9 +11,9 @@
 	},
 	"repository": {
 			"type": "git",
-			"url": "https://github.com/MrJoka-Thejaka/Mizuki"
+			"url": "https://github.com/BlackKingdoms/BlackKingdom"
 	},
-	"author": "sisula/thejaka",
+	"author": "dinuka/nico",
 	"license": "GNU",
 	"dependencies": {
 			"@adiwajshing/baileys": "3.5.2",
@@ -70,7 +70,7 @@
 	},
 	"devDependencies": {},
 	"bugs": {
-			"url": "https://github.com/MrJoka-Thejaka/Mizuki"
+			"url": "https://github.com/BlackKingdoms/BlackKingdom"
 	},
-	"homepage": "https://github.com/MrJoka-Thejaka/Mizuki"
+	"homepage": "https://github.com/BlackKingdoms/BlackKingdom"
 }
